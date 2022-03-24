@@ -6,7 +6,7 @@ Welcome to the UNCFoodWatch GitHub repository!
 
 TODO
 
-## Overview 
+## Overview
 
 Food Poisoning Tracker
 
