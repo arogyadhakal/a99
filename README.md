@@ -12,4 +12,4 @@ Food Poisoning Tracker
 
 ## Documentation
 
-Documentation for the UNCFoodWatch project can be found [here](..a99/docs/)
+Documentation for the UNCFoodWatch project can be found [here](/a99/docs/)
