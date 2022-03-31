@@ -1,0 +1,21 @@
+.title_nav {
+    display: flex;
+    justify-content: flex-start;
+    order: -1;
+}
+  
+.main_nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #EFD6C1;
+    color: rgb(0, 0, 0);
+    line-height:4em;
+    padding:0 1em;
+}
+  
+.nav_item {
+    display: flex;
+    justify-content: flex-end;
+}
+
