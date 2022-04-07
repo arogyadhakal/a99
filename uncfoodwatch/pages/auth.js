@@ -3,6 +3,14 @@ import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 import firebase from "../firebase/clientApp";
 import 'firebase/compat/auth';
 
+
+
+const Profile = () => {
+  reutrn (
+    <button> Hello </button>
+  )
+}
+
 // var firebase = require('firebase')
 // var firebaseui = require('firebaseui');
 
@@ -28,22 +36,22 @@ const uiConfig = {
     signInOptions: [firebase.auth.GithubAuthProvider.PROVIDER_ID],
   };
   
-  function SignInScreen() {
-    return (
-      <div
-        style={{
-          maxWidth: "320px",
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-        }}
-      >
-        <h1>UNC FoodWatch Login Login</h1>
-        <p>Please sign-in:</p>
-        <StyledFirebaseAuth uiConfig={uiConfig} firebaseAuth={firebase.auth()} />
-      </div>
-    );
-  }
+function SignInScreen() {
+  return (
+    <div
+      style={{
+        maxWidth: "320px",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+      }}
+    >
+      <h1>UNC FoodWatch Login Login</h1>
+      <p>Please sign-in:</p>
+      <StyledFirebaseAuth uiConfig={uiConfig} firebaseAuth={firebase.auth()} />
+    </div>
+  );
+}
   
-  export default SignInScreen;
+  export default Profile;

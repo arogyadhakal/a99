@@ -9,7 +9,7 @@ const Header = ({ pageTitle }) => {
 
             <div className={styles.nav_item}>
                 <a href='home'>Home</a> |
-                <a href='profile'>Profile</a>
+                <a href='auth'>Profile</a>
             </div>
         </nav>
     )
