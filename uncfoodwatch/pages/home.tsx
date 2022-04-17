@@ -7,5 +7,4 @@ const Home = () => {
         <Header pageTitle={'Home'}></Header>
     )
 }
-
 export default Home
