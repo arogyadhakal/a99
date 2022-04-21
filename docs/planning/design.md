@@ -10,37 +10,32 @@ Food Poisoning is an issue, which over 48 million Americans experience each year
 
 ## User info
 
-1. login
-  a. username
-  b. password
-2. profile
-  a. name
-  b. major
-  c. grade(?)
-  d. age
-  e. profile pic(?)
-3. posting
-4. editing
-5. deleting
+- login
+  - username
+  - password
+- profile
+  - name
+  - major
+  - age
+- location
 
-# Site functionality
+# User interaction
 
-1. posting
-  a. location
-  b. food/restaurant name
-  c. date of poisoning
-  d. how bad was it? (maybe rating system)
-2. deleting
-  a. delete post
-3. editing
-  a. edit post
-4. searching for
-  a. location
-  b. username
-5. Interaction
-  a. liking posts
-  b. commenting
-  c. friend requests
+- posting
+  - location
+  - food/restaurant name
+  - date of poisoning
+  - how bad was it? (maybe rating system)
+- deleting
+  - delete post
+- editing
+  - edit post
+- searching for
+  - location
+  - username
+- post interaction
+  - liking
+  - commenting
 
 # Figma Prototype
 
