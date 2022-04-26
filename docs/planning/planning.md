@@ -14,7 +14,7 @@
     * back end: Next.js
 * Project layout
 
-    * Avalaible in [here](/docs/design.md)
+    * Avalaible [here](/docs/design.md)
 
 * Assign roles
 * Begin working on prototype
