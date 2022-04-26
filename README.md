@@ -2,13 +2,15 @@
 
 Welcome to the UNCFoodWatch GitHub repository!
 
-## Website
+## Stages
 
-TODO
+- Backend
+- Frontend for the frontend framework.
+- CSS for styling
 
 ## Overview
 
-Food Poisoning Tracker
+It is a Fact of Life, Food Poisoning Happens, so Document It to Protect Others
 
 ## Documentation
 
