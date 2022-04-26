@@ -25,7 +25,7 @@ It is a Fact of Life, Food Poisoning Happens, so Document It to Protect Others. 
 - Add User to Database
 - Connect Case to Firebase API
 - Add Firebase API Endpoints
-- Display Cases for all signed in users
+- Display Cases for all signed-in users
 
 # Deliverables
 
@@ -36,3 +36,15 @@ npm run dev
 ```
 # Set Up
 
+Follow the following steps to install UNCFoodWatch
+
+1. Clone the repository to your computer 
+2. Navigate to the repository
+
+# Schedule
+
+Follow this link to access the project completeion scheduale
+
+# Roles
+
+Follow this link to access the project team roles
