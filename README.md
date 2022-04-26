@@ -43,7 +43,7 @@ Follow the following steps to install UNCFoodWatch
 
 # Schedule
 
-Follow this link to access the project completeion scheduale
+Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/roles.md) to access the project completeion scheduale
 
 # Roles
 
