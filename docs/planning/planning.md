@@ -46,6 +46,11 @@
     
 * Began scripting API documentation
 
+* TO BE IMPLEMENTED: 
+    * Editing and Deleting Account
+
+* Account information available for review [here](/docs/planning/design.md)
+
 **3/19-3/26**
 
 * Back end: working on user authentication
@@ -53,5 +58,30 @@
     * Connecting to database
 
 * Front end: login page
-    * Css styling 
+    * CSS styling 
+
+**3/19-3/26**
+
+* Back end: working on user authentication
+    
+    * Connecting to Database 
+
+* Front end: Login Page
+
+    * CSS styling
+
+* Database
+
+    * Need to create a log for access
+
+**3/27-4/4**
+
+* Front end: Sign up page
+    * CSS styling 
+
+* Back end: adding posts to website
+
+* TO BE IMPLEMENTED:
+    
+    * Back end: editing posts and adding comments
    
