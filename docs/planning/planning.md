@@ -27,6 +27,8 @@
     * Tool: Figma
         
         * Desktop & Mobile versions
+        * Available [here](/docs/images/) for still images
+        * Also available [here](https://www.figma.com/file/mooxIIEptE0eSbexqJnS2g/FoodWatch---Desktop-Version?node-id=0%3A1) for an interactive run-through
             
 
 **3/10-3/18**
