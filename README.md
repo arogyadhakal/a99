@@ -43,8 +43,12 @@ Follow the following steps to install UNCFoodWatch
 
 # Schedule
 
-Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/roles.md) to access the project completeion scheduale
+Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/planning/planning.md) to access the project completion schedule
+
+# Design
+
+Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/planning/design.md) to access the project design
 
 # Roles
 
-Follow this link to access the project team roles
+Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/roles.md) to access the project team roles
