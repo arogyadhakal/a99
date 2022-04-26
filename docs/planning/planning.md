@@ -33,7 +33,7 @@
 
 * Back end: working on user authentication
     
-   * User can successfully login, signup, editing and deleting an account
+   * User can successfully login, signup, edit and delete an account
     
 
 * Front end: developing main dashboard interface
