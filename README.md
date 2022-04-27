@@ -52,3 +52,189 @@ Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/planning/d
 # Roles
 
 Follow this [Link](https://github.com/arogyadhakal/a99/blob/main/docs/roles.md) to access the project team roles
+
+# FoodWatch API Documentation
+
+## Endpoints
+
+### /app/ (GET)
+
+#### Request cURL
+
+```
+curl http://localhost:5000/app/
+```
+
+#### Response body
+
+```
+{"message":"Your API works! (200)"}
+```
+
+#### Response headers
+
+```
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 35
+ETag: W/"23-KNmhzXgQhtEE5ovS3fuLixylNK0"
+Date: Thu, 07 Apr 2022 15:07:49 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+```
+
+### /app/log/access/ (GET)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/log/access/ (GET)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/log/error/ (GET)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/user/login/ (POST)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/user/new/ (POST)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/user/update/ (PATCH)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
+### /app/user/delete/ (DELETE)
+
+_Not yet implemented_
+
+#### Request cURL
+
+```
+
+```
+
+#### Response body
+
+```
+
+```
+
+#### Response headers
+
+```
+
+```
+
