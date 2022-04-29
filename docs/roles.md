@@ -10,7 +10,9 @@ These are the roles that we assigned to each member of our team, along with the 
     - Creates and updates the README file with pertinent information
     - Keeps all of the required documentation in order
 3. Arogya Dhakal - Firebase Lead
-    - Oversees the usage of Firebase for user authentication Systems
-    - Deploys
+    - Deployed and oversees the usage of Firebase for user authentication Systems
+    - Deployed the Firebase Back End such that all data for posts can be read back in
+    - Deployed the Edit Account functionality with the ability to change password and delete an account
+    - Deployed Front End for saving notes functionality, delete button, login and signup forms
 4. Poojha Palle - API and Back End Oversight lead
 5. Tanner Loren - Front End User Interface Lead
